@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.catchcashflow.refreshchatdb</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>ProgramArguments</key>
+  <array>
+    <!--TODO your applescript file locate-->
+    <string>/Users/path/to/imessageCatchCashFlow/refreshChatDB.applescript</string>
+  </array>
+  <!--TODO interval of refresh-->
+  <key>StartInterval</key>
+  <integer>1800</integer>
+  <key>StandardErrorPath</key>
+  <!--TODO err(log actually) file out locate-->
+  <string>/Users/path/to/imessageCatchCashFlow/log/refreshChatDB.log</string>
+</dict>
+</plist>
