@@ -8,7 +8,7 @@ app.
 
 [中文介绍](README_CN.md)
 
-[中文博客](https://www.lekifier.cn/利用短信在icloud中同步的机制自动化整理日常消费流水账篇1)
+[中文博客](https://www.lekifier.cn/通过icloud的同步机制实现自动化整理日常消费流水账篇1)
 
 Assuming you have a credit card used for daily
 consumption, and the credit card MUST have the
